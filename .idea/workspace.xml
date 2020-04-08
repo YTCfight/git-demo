@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="078543e9-6dc7-433c-ae78-8c4fcb6d0ef6" name="Default Changelist" comment="ytc" />
+=======
+    <list default="true" id="078543e9-6dc7-433c-ae78-8c4fcb6d0ef6" name="Default Changelist" comment="ytc">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/demo/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+    </list>
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +50,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
@@ -83,36 +97,166 @@
       <workItem from="1586338235310" duration="696000" />
       <workItem from="1586339038029" duration="764000" />
       <workItem from="1586340295850" duration="6000" />
+<<<<<<< Updated upstream
     </task>
+=======
+      <workItem from="1586340337673" duration="7923000" />
+    </task>
+    <task id="LOCAL-00001" summary="ytc">
+      <created>1586340388599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586340388599</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ytc">
+      <created>1586341361904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586341361904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ytc">
+      <created>1586341546000</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586341546000</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ytc">
+      <created>1586341566202</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586341566202</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ytc">
+      <created>1586341638960</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586341638960</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ytc">
+      <created>1586341708680</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586341708680</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ytc">
+      <created>1586341722135</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586341722135</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+>>>>>>> Stashed changes
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< Updated upstream
     <state x="255" y="0" key="CommitChangelistDialog2" timestamp="1586338325291">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="255" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1586338325291" />
     <state width="1388" height="232" key="GridCell.Tab.0.bottom" timestamp="1586339005591">
+=======
+    <state x="255" y="0" key="CommitChangelistDialog2" timestamp="1586357256868">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="232" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586339005591" />
-    <state width="1388" height="232" key="GridCell.Tab.0.center" timestamp="1586339005587">
+    <state x="255" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1586357256868" />
+    <state x="100" y="87" width="1240" height="791" key="DiffContextDialog" timestamp="1586342562974">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="100" y="87" width="1240" height="791" key="DiffContextDialog/0.23.1440.797@0.23.1440.797" timestamp="1586342562974" />
+    <state width="1388" height="232" key="GridCell.Tab.0.bottom" timestamp="1586356850946">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="232" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586339005587" />
-    <state width="1388" height="232" key="GridCell.Tab.0.left" timestamp="1586339005586">
+    <state width="1388" height="232" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586356850946" />
+    <state width="1388" height="232" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1586349306695" />
+    <state width="1388" height="232" key="GridCell.Tab.0.center" timestamp="1586356850944">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="232" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586339005586" />
-    <state width="1388" height="232" key="GridCell.Tab.0.right" timestamp="1586339005590">
+    <state width="1388" height="232" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586356850944" />
+    <state width="1388" height="232" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1586349306694" />
+    <state width="1388" height="232" key="GridCell.Tab.0.left" timestamp="1586356850943">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="232" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586339005590" />
+    <state width="1388" height="232" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586356850943" />
+    <state width="1388" height="232" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1586349306693" />
+    <state width="1388" height="232" key="GridCell.Tab.0.right" timestamp="1586356850945">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="232" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586356850945" />
+    <state width="1388" height="232" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1586349306694" />
+    <state width="1388" height="289" key="GridCell.Tab.1.bottom" timestamp="1586349528432">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="289" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586349528432" />
+    <state width="1388" height="289" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1586346152170" />
+    <state width="1388" height="289" key="GridCell.Tab.1.center" timestamp="1586349528431">
+>>>>>>> Stashed changes
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="289" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586349528431" />
+    <state width="1388" height="289" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1586346152168" />
+    <state width="1388" height="289" key="GridCell.Tab.1.left" timestamp="1586349528430">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="289" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586349528430" />
+    <state width="1388" height="289" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1586346152167" />
+    <state width="1388" height="289" key="GridCell.Tab.1.right" timestamp="1586349528432">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="289" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586349528432" />
+    <state width="1388" height="289" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1586346152169" />
+    <state x="556" y="103" key="RollbackChangesDialog" timestamp="1586356955575">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="556" y="103" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1586356955575" />
     <state x="120" y="3" key="SettingsEditor" timestamp="1586338813432">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="120" y="3" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586338813432" />
+<<<<<<< Updated upstream
+=======
+    <state x="220" y="112" key="Vcs.Push.Dialog.v2" timestamp="1586356937575">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="112" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1586356937575" />
+    <state x="0" y="0" width="1440" height="900" key="VcsDiffUtil.ChangesDialog" timestamp="1586342523438">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" width="1440" height="900" key="VcsDiffUtil.ChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1586342523438" />
+    <state x="460" y="107" key="git4idea.branch.GitSmartOperationDialog" timestamp="1586357132345">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="460" y="107" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900@0.0.1440.900" timestamp="1586357132345" />
+    <state x="489" y="206" key="git4idea.merge.GitMergeDialog" timestamp="1586342700337">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="489" y="206" key="git4idea.merge.GitMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1586342700337" />
+    <state x="397" y="206" key="git4idea.merge.GitPullDialog" timestamp="1586357011137">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="206" key="git4idea.merge.GitPullDialog/0.0.1440.900@0.0.1440.900" timestamp="1586357011137" />
+    <state x="498" y="295" key="git4idea.rebase.GitRebaseDialog" timestamp="1586356973196">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="498" y="295" key="git4idea.rebase.GitRebaseDialog/0.0.1440.900@0.0.1440.900" timestamp="1586356973196" />
+    <state x="522" y="334" key="git4idea.ui.GitResetDialog" timestamp="1586357339237">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="522" y="334" key="git4idea.ui.GitResetDialog/0.0.1440.900@0.0.1440.900" timestamp="1586357339237" />
+    <state x="535" y="341" key="git4idea.ui.GitStashDialog" timestamp="1586342730386">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="535" y="341" key="git4idea.ui.GitStashDialog/0.0.1440.900@0.0.1440.900" timestamp="1586342730386" />
+>>>>>>> Stashed changes
   </component>
 </project>
